@@ -22,6 +22,7 @@ This project explores the application of **machine learning** and **data visuali
    - **📈 Linear Regression**: Predicted points scored based on field goal attempts, achieving a significant R-squared value of 0.460.
    - **🌲 Random Forest Classifier**: Classified player positions with an accuracy of 42.86%, based on game data and player metrics.
    - **🎯 K-Means Clustering**: Grouped players into archetypes using key features like points and assists, providing insights into player roles.
+   - **🌳Decision Tree Classifier**: The Decision Tree model effectively classifies NBA player positions using key metrics such as assists (AST), rebounds (TRB), field goal attempts (FGA), and field goal percentage (FG%), providing an interpretable method to understand how these performance indicators determine player roles.
 
 ## 📈 Graphs and Visualizations
 
@@ -33,17 +34,21 @@ This project explores the application of **machine learning** and **data visuali
 ![image](https://github.com/user-attachments/assets/b625f0c6-dc7d-4f93-a0d3-84bf8d5b65ad)
 - **Description**: The elbow graph helps determine the optimal number of clusters for player archetypes. The point where the graph bends (the "elbow") indicates the optimal number of clusters, which we used to group players into categories such as scorers, playmakers, and defenders.
 
-### 🌲 Random Forest Classifier - Feature Importance
-![Random Forest Feature Importance](./images/random_forest_importance.png)
-- **Description**: This bar chart shows the importance of various features in predicting player positions using the Random Forest classifier. Features like `Games Played`, `Field Goals`, and `Shooting Percentage` were among the most influential in determining player roles.
-
 ### 🎯 K-Means Clustering - Player Archetypes
-![K-Means Clustering](./images/kmeans_clustering.png)
+![image](https://github.com/user-attachments/assets/151b1ffb-af53-450e-aa1b-c7007b17adeb)
 - **Description**: This scatter plot illustrates the results of the K-Means clustering model, grouping players based on their performance stats. Each color represents a different player archetype, providing insights into their roles on the court.
+
+🌳 **Decision Tree Classifier - Visualization**
+![image](https://github.com/user-attachments/assets/14358651-d951-4ac0-af2e-79ddd584ac64)
+- **Description**: This Decision Tree model is used to classify NBA player positions based on various performance metrics, such as assists, rebounds, field goal attempts, and more. Each node in the tree represents a decision based on one of these metrics, leading to a prediction of the player's position at the leaf nodes.
 
 ## 🌟 Key Insights
 - **Accurate Predictions**: Linear regression and OLS models provided significant predictive potential for scoring metrics.
 - **Player Archetypes**: Clustering analysis revealed distinct player roles, aiding in player evaluation and team composition.
+- **OLS Statistics Summary**
+<img width="690" alt="Screenshot 2024-08-15 at 20 32 29" src="https://github.com/user-attachments/assets/bb9dba94-db2a-4f0b-9ab9-6af7936fa573">
+
+- The OLS regression shows that each additional field goal attempt increases points scored by approximately 1.08, with an R-squared of 0.46, indicating a moderately strong model.
 
 ## 🚀 Applications
 - **Player Evaluation**: Use of machine learning models to evaluate player performance and potential.
@@ -56,9 +61,6 @@ This project explores the application of **machine learning** and **data visuali
 - **/scripts**: Python scripts used for data processing and model training.
 - **/outputs**: Final visualizations and analysis reports.
 - **/images**: Contains the images of the graphs used in the markdown file.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 📚 References
 - **Final Report**: [Download PDF](./Final%20report%20document.pdf)
