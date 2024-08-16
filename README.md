@@ -85,11 +85,6 @@ This project explores the application of **machine learning** and **data visuali
 - **/notebooks**: Jupyter notebooks showcasing the data analysis process and model implementation.
 - **/scripts**: Python scripts used for data processing and model training.
 
-## 📚 References
-- **Final Report**: [Download PDF](./Final%20report%20document.pdf)
-- **Working Project HTML**: [View Project](./Final%20working%20project%204%2030%20(1).html)
-- **Group Presentation**: [Download PDF](./Group%2020.pdf)
-
 ## 🙌 Contributors
 - **Sydney Truong**
 - **Austin Percy**
