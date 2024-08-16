@@ -1,6 +1,8 @@
 ![NBA Data Analysis](https://github.com/MadanThevar/NBA-Analysis-Project/blob/main/bull1-ezgif.com-webp-to-gif-converter.gif?raw=true)
 
-# 🏀 NBA Statistics Analysis Project
+<div align="center">
+  <h1>🏀 NBA Statistics Analysis Project</h1>
+</div>
 
 ## 📄 Overview
 This project explores the application of **machine learning** and **data visualization** techniques to analyze NBA player statistics. Our analysis aims to predict player performance, provide insights into team strategies, and enhance decision-making processes within the NBA.
