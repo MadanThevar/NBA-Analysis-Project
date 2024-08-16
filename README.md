@@ -1,4 +1,4 @@
-![NBA Data Analysis]()
+![NBA Data Analysis](https://github.com/MadanThevar/NBA-Analysis-Project/blob/main/bull1-ezgif.com-webp-to-gif-converter.gif?raw=true)
 
 # 🏀 NBA Statistics Analysis Project
 
