@@ -80,10 +80,6 @@ This project explores the application of **machine learning** and **data visuali
 - **Advanced Analytics**: Incorporating additional player metrics, such as advanced shooting metrics or defensive statistics, could provide a more holistic view of player performance and improve model predictions.
 - **Fan Engagement**: Enhanced understanding of player roles and team dynamics can boost fan engagement and interest, with data-driven insights being used to create interactive fan experiences and media content.
 
-## 📂 Project Structure
-- **/data**: Contains the raw and cleaned datasets used in the analysis.
-- **/notebooks**: Jupyter notebooks showcasing the data analysis process and model implementation.
-- **/scripts**: Python scripts used for data processing and model training.
 
 ## 🙌 Contributors
 - **Sydney Truong**
