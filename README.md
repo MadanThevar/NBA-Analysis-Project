@@ -1,4 +1,4 @@
-![NBA Data Analysis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fnba-playoffs-basketball-gif-by-nba-find-share-on-giphy--587860557622407818%2F&psig=AOvVaw0T-DLXtxYCJyYNI3D_gQYM&ust=1723856421872000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDamOCn-IcDFQAAAAAdAAAAABAp)
+![NBA Data Analysis]()
 
 # 🏀 NBA Statistics Analysis Project
 
