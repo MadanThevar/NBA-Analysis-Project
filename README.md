@@ -84,8 +84,6 @@ This project explores the application of **machine learning** and **data visuali
 - **/data**: Contains the raw and cleaned datasets used in the analysis.
 - **/notebooks**: Jupyter notebooks showcasing the data analysis process and model implementation.
 - **/scripts**: Python scripts used for data processing and model training.
-- **/outputs**: Final visualizations and analysis reports.
-- **/images**: Contains the images of the graphs used in the markdown file.
 
 ## 📚 References
 - **Final Report**: [Download PDF](./Final%20report%20document.pdf)
